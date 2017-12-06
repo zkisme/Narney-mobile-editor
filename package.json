@@ -1,0 +1,10 @@
+{
+  "name": "narney-web-editor",
+  "version": "0.0.1",
+  "description": "一个简单的移动端富文本编辑器",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Narney (709447790@qq.com)",
+  "license": "ISC"
+}
